@@ -1,2 +1,4 @@
 # Introduction-to-machine-learning-coursera
-Exercises that I've done during this course
+
+* __Done:__
+* _week 1_ [bb](https://github.com/1inchman/Introduction-to-machine-learning-coursera/tree/master/Week%201)
