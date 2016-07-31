@@ -11,11 +11,19 @@
   * Support vector machines 
   * Logistic regression 
   * Classification quality metrics.
+* [_Week 4_](https://github.com/1inchman/Introduction-to-machine-learning-coursera/tree/master/Week%204)
+ * Linear regression
+ * Principal componen analysis
+
 
 
 
 <hr>
-### __Partially done:__ none atm
-
+### __Partially done:__
+* [_Week 5_](https://github.com/1inchman/Introduction-to-machine-learning-coursera/tree/master/Week%205)
+ * Compositions, bagging
+ * Random forests
+ * Gradient boosting
+ * Neural networks
 
 
